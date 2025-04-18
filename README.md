@@ -1,0 +1,1 @@
+The project is an Online Car Rental Management System that allows users to register, log in, view available cars, and book rentals with custom options. Admins manage vehicles, bookings, and users through a dashboard. Built using file handling and basic programming concepts, it automates the rental process efficiently.
